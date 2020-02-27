@@ -1,7 +1,9 @@
 # Terraform Bridge Provider Boilerplate
 
-This repository contains boilerplate code for building a new Pulumi provider which wraps an existing
-Terraform provider, if the existing provider uses _Go Modules_.
+[Pulumi Modern Infrastructure as Code](https://www.pulumi.com/)
+
+This repository comes from [Pulumi tf provider boilerplate code](https://github.com/pulumi/pulumi-tf-provider-boilerplate) for building a new [Pulumi provider](https://www.pulumi.com/docs/intro/cloud-providers) for [UpCloud](https://upcloud.com/) which should wraps existing
+[Terraform UpCloud provider](https://github.com/UpCloudLtd/terraform-provider-upcloud), as it uses _Go Modules_.
 
 Modify this README to describe:
 

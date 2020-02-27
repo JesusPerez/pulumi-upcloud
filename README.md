@@ -1,4 +1,4 @@
-# Pulumi UpCloud Terraform Bridge Provider
+# Pulumi Terraform Bridge Provider for UpCloud
 
 [Pulumi Modern Infrastructure as Code](https://www.pulumi.com/)
 

@@ -1,4 +1,4 @@
-# Terraform Bridge Provider Boilerplate
+# Pulumi UpCloud Terraform Bridge Provider
 
 [Pulumi Modern Infrastructure as Code](https://www.pulumi.com/)
 

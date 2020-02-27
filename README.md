@@ -20,16 +20,14 @@ First, clone this repo with the name of the desired provider in place of `upclou
 git clone https://github.com/pulumi/pulumi-tf-provider-boilerplate pulumi-upcloud
 ```
 
-Second, replace references to `upcloud` with the name of your provider:
+~~dSecond, replace references to `upcloud` with the name of your provider:~~
 
-```
-make prepare NAME=foo REPOSITORY=github.com/pulumi/pulumi-foo
-```
+~~make prepare NAME=foo REPOSITORY=github.com/pulumi/pulumi-foo~~
 
-Next, list the configuration points for the provider in the area of the README.
+~~Next, list the configuration points for the provider in the area of the README~~
 
 
-> Note: If the name of the desired Pulumi provider differs from the name of the Terraform provider, you will need to carefully distinguish between the references - see https://github.com/pulumi/pulumi-azure for an example.
+> ~~Note: If the name of the desired Pulumi provider differs from the name of the Terraform provider, you will need to carefully distinguish between the references - see https://github.com/pulumi/pulumi-azure for an example.~~
 
 ### Add dependencies
 
